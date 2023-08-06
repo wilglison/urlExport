@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "URL Concatenador",
-  "description": "Pega a URL da página atual e concatena com um texto",
+  "name": "urlExport",
+  "description": "Usa a URL da página atual e concatena com um texto pré-definido",
   "version": "1.0",
   "permissions": ["activeTab"],
   "browser_action": {
